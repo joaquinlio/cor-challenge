@@ -1,0 +1,20 @@
+{
+  "name": "cor-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "corchallenge": "./src/index.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0"
+  }
+}
